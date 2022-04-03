@@ -1,0 +1,266 @@
+#Kontakt, #omnie, #giełda, #Maksymilian, #gry
+{
+	transition: transform 0.2s ease-in-out;
+}
+#Kontakt:hover, #omnie:hover, #giełda:hover, #Maksymilian:hover, #gry:hover
+{
+	transform: scale(0.9);
+}
+body 
+{
+background-color: black;
+	
+}
+	
+table, th, td
+
+    {
+		text-align: center;  
+		margin:auto 0;
+		border-collapse:separate;
+        border:1px solid black;
+        padding:5px;
+    }
+	
+
+#tabela
+	{
+		margin: 10 auto;
+		text-align: auto;
+		
+		
+		
+		
+	}
+figcaption
+{
+	font-weight: 600;
+	padding:1px;
+	border: 1px solid white;
+	
+}
+
+header 
+{
+	
+	text-align: center;	
+	color: white;
+	background-color: black;
+	width: 100%;
+	height: 170;
+	display: flex;
+	justify-content: space-around;
+}
+
+
+
+figure
+{
+	margin:auto 0;
+}
+img 
+{
+border-radius: 10px;
+	border: 5px solid white;
+	height: 100px;
+	width: 200px;
+
+}
+h1 
+{
+	text-align: center;
+
+	width: 100%;
+	background-color: white;
+
+	color: black;
+	
+}
+#maksymilian
+{
+	
+	height: 150;
+	width: 300;
+	
+}
+iframe:
+{
+	
+}
+#btc, #bnb, #cake, #pols
+	{
+	float: right;
+	vertical-align: top;
+	width: 310;
+	height: 170;
+		
+	}
+#ETH, #xmr, #chz, #link
+{
+float: right;
+vertical-align: top;
+width: 310;
+height: 170;
+}
+
+#hbar
+{
+	height: auto;
+	width: 500;
+	
+}
+#wyniki
+
+{
+	width: 500;
+	height: auto;
+}
+#profilowe
+{
+	border-radius: 66px;
+	margin:0 auto;
+	height:300px;
+	width: 300px;
+
+	border: 3px solid black;
+	display: flex;
+	justify-content: center;
+
+	color:red;
+}
+
+
+h4
+{
+	background-color: white;
+	padding:20px ;
+}
+
+#tabela2
+{
+	border: 0px;
+	border-color: white;
+	
+	margin:0 auto;
+	text-align: left;
+}
+
+.profilowe
+{ 
+transition: transform 0.3s ease-in-out;
+height: 333;
+width: 333;
+}
+.profilowe:hover
+{
+	transform: scale(2);
+
+}
+
+h2
+{
+
+}
+h6
+{
+	background-color: white;
+
+}
+.biały
+{
+	margin: auto;
+	text-align: center;
+	background-color: white;
+}
+.tabela12
+{
+	
+		margin: auto;
+		border-color: white;
+	
+}
+.profilowe2
+{
+	height: 500px;
+	width: auto;
+	border-radius: 40px;
+	border:0px;
+
+}
+.tr1
+{
+	font-size: 23px;
+	box-shadow: 5px 10px 15px;
+	height:76px;
+	border:1px solid black;
+	padding: 1px;	
+	border-radius: 15px;
+}
+.tr2
+{
+	border: 0px solid black;
+	padding: 0px;
+	border-radius: 603px;
+	
+}
+.tb
+{
+	
+}
+.ikonykontakt
+{
+	text-align: center;
+	
+	font-size: 33px;
+	margin: 3 auto 10;
+	border: 2px solid black;
+	border-radius: 60px;
+	height:95 ;
+	width:250;
+}
+
+.gry
+{
+	background-color: white;
+}
+
+	.th
+	{
+		text-align: right;
+		border: 0px;
+	}
+	.td
+	{
+		border: 0px;
+		text-align:left;
+	}
+	.afilacje, .afilacje1, .afilacje3
+	{
+		margin: 1px;
+		border: 2px solid black;
+		height: 300px;
+		width: 300px;
+	}
+	
+	.center
+	{
+		text-align: center;
+		font-size: 35px;
+	}
+	.305px
+
+	{
+	width: 305px;	
+	}
+	
+	.tdd
+	{
+		border: 1px solid black;
+		text-align:left;
+		vertical-align: top;
+	}
+	
+	.środek
+	{
+		margin: 0 auto;
+	}
